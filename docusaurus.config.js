@@ -94,7 +94,9 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} @gdfreitas, Inc. Built with Docusaurus.`,
     },
   },
-  plugins: [],
+  plugins: [
+    require.resolve('docusaurus-lunr-search')
+  ],
   themes: [],
   presets: [
     [
