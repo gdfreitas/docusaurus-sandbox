@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{88:function(o){o.exports=JSON.parse('{"allTagsPath":"/docusaurus-sandbox/blog/tags","slug":"hello-world","name":"hello world","count":1,"permalink":"/docusaurus-sandbox/blog/tags/hello-world"}')}}]);
