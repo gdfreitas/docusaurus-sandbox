@@ -8,6 +8,8 @@ The content is powered by [Markdown JSX (MDX)](https://mdxjs.com/) which makes r
 
 ## Example
 
+Live at [**https://gdfreitas.github.io/docusaurus-sandbox**](https://gdfreitas.github.io/docusaurus-sandbox)
+
 Checkout the [CONTRIBUTING.md](./CONTRIBUTING.md) to know how to setup and run the project.
 
 - [**/docs**](./docs) has all the docs
