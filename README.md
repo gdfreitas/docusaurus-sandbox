@@ -8,12 +8,11 @@ The content is powered by [Markdown JSX (MDX)](https://mdxjs.com/) which makes r
 
 ## Example
 
-Checkout the folder [my-website](./my-website) which has a generated Docusaurus project.
+Checkout the [CONTRIBUTING.md](./CONTRIBUTING.md) to know how to setup and run the project.
 
-- [**/docs**](./my-website/docs) has all the docs
-- [**/sidebars.js**](./my-website/sidebars.js) links available docs
-- [**/blog**](./my-website/blog) has all the blog posts
-- [**README.md**](./my-website/README.md) has all the setup information for local development
+- [**/docs**](./docs) has all the docs
+- [**/sidebars.js**](./sidebars.js) links available docs
+- [**/blog**](./blog) has all the blog posts
 
 ## Community
 
