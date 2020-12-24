@@ -5,13 +5,13 @@ module.exports = {
   titleDelimiter: '🦖',
 
   tagline: 'Exploring open-source tool to generate static sites for content-driven products',
-  url: 'https://gdfreitas.dev',
+  url: 'https://gdfreitas.github.io',
 
   /**
    * If `true` adds meta tag in pages to avoid search engines indexing our site
    */
   noIndex: false,
-  baseUrl: '/',
+  baseUrl: '/docusaurus-sandbox/',
 
 
   /**
